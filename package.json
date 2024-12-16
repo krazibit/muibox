@@ -57,18 +57,18 @@
   "peerDependencies": {
     "@mui/material": ">=5.0.0 <6.0.0",
     "@mui/styles": ">=5.0.0 <6.0.0",
-    "react": "^17.3.1",
-    "react-dom": "^17.3.1"
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
   },
   "dependencies": {
     "prop-types": "^15.7.2"
   },
   "overrides": {
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
   },
   "resolutions": {
-    "react": "^17.3.1",
-    "react-dom": "^17.3.1"
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
   }
 }
